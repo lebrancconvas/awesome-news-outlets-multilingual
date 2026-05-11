@@ -52,6 +52,22 @@
 - [Gujarati](#gujarati)
 - [Punjabi](#punjabi)
 - [Sinhala](#sinhala)
+- [Yoruba](#yoruba)
+- [Igbo](#igbo)
+- [Kinyarwanda and Kirundi](#kinyarwanda-and-kirundi)
+- [Tigrinya](#tigrinya)
+- [Burmese](#burmese)
+- [Nepali](#nepali)
+- [Pashto](#pashto)
+- [Kyrgyz](#kyrgyz)
+- [Uzbek](#uzbek)
+- [Albanian](#albanian)
+- [Macedonian](#macedonian)
+- [Bosnian](#bosnian)
+- [Irish](#irish)
+- [Welsh](#welsh)
+- [Icelandic](#icelandic)
+- [Tok Pisin](#tok-pisin)
 
 ## English
 
@@ -82,6 +98,7 @@
 - [PBS NewsHour](https://www.pbs.org/newshour/)
 - [Politico Europe](https://www.politico.eu/)
 - [Euronews](https://www.euronews.com/)
+- [SWI swissinfo (English)](https://www.swissinfo.ch/eng/)
 
 ## French
 
@@ -104,6 +121,8 @@
 - [Slate.fr](https://www.slate.fr/)
 - [Paris Match](https://www.parismatch.com/)
 - [Courrier international](https://www.courrierinternational.com/)
+- [RTBF Actus](https://www.rtbf.be/actu)
+- [SWI swissinfo (Français)](https://www.swissinfo.ch/fre/)
 
 ## German
 
@@ -124,6 +143,7 @@
 - [Capital](https://www.capital.de/)
 - [manager magazin](https://www.manager-magazin.de/)
 - [ORF.at](https://orf.at/)
+- [SWI swissinfo (Deutsch)](https://www.swissinfo.ch/ger/)
 
 ## Spanish
 
@@ -148,6 +168,7 @@
 - [EFE](https://www.efe.com/)
 - [Página12 (Argentina)](https://www.pagina12.com.ar/)
 - [ABC Color (Paraguay)](https://www.abc.com.py/)
+- [SWI swissinfo (Español)](https://www.swissinfo.ch/spa/)
 
 ## Russian
 
@@ -162,6 +183,7 @@
 - [Gazeta.ru](https://www.gazeta.ru/)
 - [РИА Новости (RIA Novosti)](https://www.ria.ru/)
 - [Вести.Ru (Vesti.ru)](https://www.vesti.ru/)
+- [SWI swissinfo (Русский)](https://www.swissinfo.ch/rus/)
 
 ## Arabic
 
@@ -178,6 +200,7 @@
 - [اليوم السابع (Youm7)](https://www.youm7.com/)
 - [الشروق (Al-Shorouk)](https://www.shorouknews.com/)
 - [Hespress (هسبريس)](https://www.hespress.com/)
+- [SWI swissinfo (العربية)](https://www.swissinfo.ch/ara/)
 
 ## Persian
 
@@ -212,6 +235,7 @@
 - [ABC中文 (ABC News Chinese)](https://www.abc.net.au/news/chinese)
 - [BBC News 简体中文](https://www.bbc.com/zhongwen/simp)
 - [BBC News 繁體中文](https://www.bbc.com/zhongwen/trad)
+- [SWI swissinfo (中文)](https://www.swissinfo.ch/chi/)
 
 ## Japanese
 
@@ -226,6 +250,7 @@
 - [共同通信 (Kyodo News)](https://www.kyodonews.jp/)
 - [ITmedia NEWS](https://www.itmedia.co.jp/news/)
 - [47NEWS](https://www.47news.jp/)
+- [SWI swissinfo (日本語)](https://www.swissinfo.ch/jpn/)
 
 ## Korean
 
@@ -255,6 +280,7 @@
 - [ฐานเศรษฐกิจ (Thansettakij)](https://www.thansettakij.com/)
 - [คมชัดลึก (Kom Chad Luek)](https://www.komchadluek.net/)
 - [The Nation Thailand](https://www.nationthailand.com/)
+- [ผู้จัดการออนไลน์ (MGR Online)](https://mgronline.com/)
 
 ## Vietnamese
 
@@ -312,6 +338,7 @@
 - [O Estado de Minas](https://www.em.com.br/)
 - [Observador](https://observador.pt/)
 - [CartaCapital](https://www.cartacapital.com.br/)
+- [SWI swissinfo (Português)](https://www.swissinfo.ch/por/)
 
 ## Italian
 
@@ -323,6 +350,7 @@
 - [Il Sole 24 Ore](https://www.ilsole24ore.com/)
 - [Il Messaggero](https://www.ilmessaggero.it/)
 - [La Stampa](https://www.lastampa.it/)
+- [SWI swissinfo (Italiano)](https://www.swissinfo.ch/ita/)
 
 ## Dutch
 
@@ -507,15 +535,86 @@
 ## Marathi
 
 - [BBC News मराठी](https://www.bbc.com/marathi)
+- [Loksatta](https://www.loksatta.com/)
 
 ## Gujarati
 
 - [BBC News ગુજરાતી](https://www.bbc.com/gujarati)
+- [Divya Bhaskar](https://www.divyabhaskar.co.in/)
 
 ## Punjabi
 
 - [BBC News ਪੰਜਾਬੀ](https://www.bbc.com/punjabi)
+- [Ajit](https://www.ajitjalandhar.com/)
 
 ## Sinhala
 
 - [BBC News සිංහල](https://www.bbc.com/sinhala)
+
+## Yoruba
+
+- [BBC News Yorùbá](https://www.bbc.com/yoruba)
+
+## Igbo
+
+- [BBC News Igbo](https://www.bbc.com/igbo)
+
+## Kinyarwanda and Kirundi
+
+- [BBC Gahuza](https://www.bbc.com/gahuza)
+
+## Tigrinya
+
+- [BBC News ትግርኛ](https://www.bbc.com/tigrinya)
+
+## Burmese
+
+- [BBC မြန်မာ](https://www.bbc.com/burmese)
+
+## Nepali
+
+- [BBC नेपाली](https://www.bbc.com/nepali)
+
+## Pashto
+
+- [BBC پښتو](https://www.bbc.com/pashto)
+
+## Kyrgyz
+
+- [BBC Кыргызча](https://www.bbc.com/kyrgyz)
+
+## Uzbek
+
+- [BBC O'zbek](https://www.bbc.com/uzbek)
+
+## Albanian
+
+- [Deutsche Welle (Shqip)](https://www.dw.com/sq/)
+- [Panorama](https://www.panorama.com.al/)
+
+## Macedonian
+
+- [Deutsche Welle (Македонски)](https://www.dw.com/mk/)
+- [MKD.mk](https://www.mkd.mk/)
+
+## Bosnian
+
+- [Deutsche Welle (Bosanski)](https://www.dw.com/bs/)
+- [Oslobođenje](https://www.oslobodjenje.ba/)
+
+## Irish
+
+- [RTÉ News](https://www.rte.ie/news/)
+
+## Welsh
+
+- [BBC Cymru Fyw](https://www.bbc.com/cymrufyw)
+
+## Icelandic
+
+- [Vísir](https://www.visir.is/)
+- [DV](https://www.dv.is/)
+
+## Tok Pisin
+
+- [ABC News Tok Pisin](https://www.abc.net.au/news/tok-pisin)
