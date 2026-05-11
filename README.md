@@ -33,6 +33,25 @@
 - [Greek](#greek)
 - [Romanian](#romanian)
 - [Hungarian](#hungarian)
+- [Filipino](#filipino)
+- [Finnish](#finnish)
+- [Slovak](#slovak)
+- [Slovenian](#slovenian)
+- [Croatian](#croatian)
+- [Serbian](#serbian)
+- [Bulgarian](#bulgarian)
+- [Estonian](#estonian)
+- [Latvian](#latvian)
+- [Lithuanian](#lithuanian)
+- [Swahili](#swahili)
+- [Amharic](#amharic)
+- [Nigerian Pidgin](#nigerian-pidgin)
+- [Tamil](#tamil)
+- [Telugu](#telugu)
+- [Marathi](#marathi)
+- [Gujarati](#gujarati)
+- [Punjabi](#punjabi)
+- [Sinhala](#sinhala)
 
 ## English
 
@@ -61,6 +80,8 @@
 - [The Atlantic](https://www.theatlantic.com/)
 - [ProPublica](https://www.propublica.org/)
 - [PBS NewsHour](https://www.pbs.org/newshour/)
+- [Politico Europe](https://www.politico.eu/)
+- [Euronews](https://www.euronews.com/)
 
 ## French
 
@@ -124,6 +145,9 @@
 - [El Comercio (Peru)](https://www.elcomercio.pe/)
 - [El Espectador (Colombia)](https://www.elespectador.com/)
 - [La Tercera (Chile)](https://www.latercera.com/)
+- [EFE](https://www.efe.com/)
+- [Página12 (Argentina)](https://www.pagina12.com.ar/)
+- [ABC Color (Paraguay)](https://www.abc.com.py/)
 
 ## Russian
 
@@ -186,6 +210,8 @@
 - [中央社 CNA](https://www.cna.com.tw/)
 - [聯合新聞網 (UDN)](https://udn.com/)
 - [ABC中文 (ABC News Chinese)](https://www.abc.net.au/news/chinese)
+- [BBC News 简体中文](https://www.bbc.com/zhongwen/simp)
+- [BBC News 繁體中文](https://www.bbc.com/zhongwen/trad)
 
 ## Japanese
 
@@ -272,6 +298,7 @@
 - [Okezone](https://www.okezone.com/)
 - [Suara](https://www.suara.com/)
 - [CNBC Indonesia](https://www.cnbcindonesia.com/)
+- [BBC News Indonesia](https://www.bbc.com/indonesia)
 
 ## Portuguese
 
@@ -284,6 +311,7 @@
 - [Terra](https://www.terra.com.br/)
 - [O Estado de Minas](https://www.em.com.br/)
 - [Observador](https://observador.pt/)
+- [CartaCapital](https://www.cartacapital.com.br/)
 
 ## Italian
 
@@ -293,6 +321,8 @@
 - [ANSA](https://www.ansa.it/)
 - [Rai News](https://www.rainews.it/)
 - [Il Sole 24 Ore](https://www.ilsole24ore.com/)
+- [Il Messaggero](https://www.ilmessaggero.it/)
+- [La Stampa](https://www.lastampa.it/)
 
 ## Dutch
 
@@ -306,6 +336,7 @@
 - [Onet](https://www.onet.pl/)
 - [WP](https://www.wp.pl/)
 - [TVN24](https://www.tvn24.pl/)
+- [Gazeta Wyborcza](https://wyborcza.pl/)
 
 ## Turkish
 
@@ -314,6 +345,7 @@
 - [Hürriyet](https://www.hurriyet.com.tr/)
 - [Sabah](https://www.sabah.com.tr/)
 - [Anadolu Agency (Turkish)](https://www.aa.com.tr/tr)
+- [Milliyet](https://www.milliyet.com.tr/)
 
 ## Hindi
 
@@ -388,3 +420,102 @@
 - [Deutsche Welle (Magyar)](https://www.dw.com/hu/)
 - [Index](https://index.hu/)
 - [Telex](https://telex.hu/)
+
+## Filipino
+
+- [The Philippine Star](https://www.philstar.com/)
+- [Rappler](https://www.rappler.com/)
+- [GMA News Online](https://www.gmanetwork.com/news/)
+
+## Finnish
+
+- [Deutsche Welle (Suomi)](https://www.dw.com/fi/)
+- [Yle Uutiset](https://www.yle.fi/uutiset)
+- [Helsingin Sanomat](https://www.hs.fi/)
+- [Ilta-Sanomat](https://www.is.fi/)
+
+## Slovak
+
+- [Deutsche Welle (Slovenčina)](https://www.dw.com/sk/)
+- [Aktuality.sk](https://www.aktuality.sk/)
+
+## Slovenian
+
+- [Deutsche Welle (Slovenščina)](https://www.dw.com/sl/)
+- [24ur](https://www.24ur.com/)
+- [RTV Slovenija](https://www.rtvslo.si/)
+- [Dnevnik](https://www.dnevnik.si/)
+
+## Croatian
+
+- [Deutsche Welle (Hrvatski)](https://www.dw.com/hr/)
+- [Večernji list](https://www.vecernji.hr/)
+- [Index.hr](https://www.index.hr/vijesti)
+
+## Serbian
+
+- [Deutsche Welle (Srpski)](https://www.dw.com/sr/)
+- [Blic](https://www.blic.rs/)
+- [Danas](https://www.danas.rs/)
+
+## Bulgarian
+
+- [Deutsche Welle (Български)](https://www.dw.com/bg/)
+- [Dnevnik](https://www.dnevnik.bg/)
+- [24 часа](https://www.24chasa.bg/)
+
+## Estonian
+
+- [Deutsche Welle (Eesti)](https://www.dw.com/et/)
+- [ERR Uudised](https://www.err.ee/)
+
+## Latvian
+
+- [Deutsche Welle (Latviešu)](https://www.dw.com/lv/)
+- [TVNET](https://www.tvnet.lv/)
+
+## Lithuanian
+
+- [15min](https://www.15min.lt/)
+- [LRT](https://www.lrt.lt/)
+
+## Swahili
+
+- [Deutsche Welle (Kiswahili)](https://www.dw.com/sw/)
+- [BBC News Swahili](https://www.bbc.com/swahili)
+
+## Amharic
+
+- [Deutsche Welle (አማርኛ)](https://www.dw.com/am/)
+- [BBC News አማርኛ](https://www.bbc.com/amharic)
+
+## Nigerian Pidgin
+
+- [BBC News Pidgin](https://www.bbc.com/pidgin)
+
+## Tamil
+
+- [BBC News தமிழ்](https://www.bbc.com/tamil)
+- [Dinamalar](https://www.dinamalar.com/)
+- [Sakshi](https://www.sakshi.com/)
+
+## Telugu
+
+- [BBC News తెలుగు](https://www.bbc.com/telugu)
+- [Eenadu](https://www.eenadu.net/)
+
+## Marathi
+
+- [BBC News मराठी](https://www.bbc.com/marathi)
+
+## Gujarati
+
+- [BBC News ગુજરાતી](https://www.bbc.com/gujarati)
+
+## Punjabi
+
+- [BBC News ਪੰਜਾਬੀ](https://www.bbc.com/punjabi)
+
+## Sinhala
+
+- [BBC News සිංහල](https://www.bbc.com/sinhala)
