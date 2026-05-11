@@ -37,6 +37,12 @@
 - [ABC News (Australia)](https://www.abc.net.au/news)
 - [The Independent](https://www.independent.co.uk/)
 - [The Straits Times](https://www.straitstimes.com/)
+- [USA Today](https://www.usatoday.com/)
+- [Bloomberg](https://www.bloomberg.com/)
+- [CNBC](https://www.cnbc.com/)
+- [MSNBC](https://www.msnbc.com/)
+- [The Atlantic](https://www.theatlantic.com/)
+- [ProPublica](https://www.propublica.org/)
 
 ## French
 
@@ -53,6 +59,11 @@
 - [Les Échos](https://www.lesechos.fr/)
 - [Le Point](https://www.lepoint.fr/)
 - [TF1 Info](https://www.tf1info.fr/)
+- [Mediapart](https://www.mediapart.fr/)
+- [L'Express](https://www.lexpress.fr/)
+- [France Bleu](https://www.francebleu.fr/)
+- [Slate.fr](https://www.slate.fr/)
+- [Paris Match](https://www.parismatch.com/)
 
 ## German
 
@@ -66,6 +77,12 @@
 - [n-tv](https://www.n-tv.de/)
 - [WELT](https://www.welt.de/)
 - [FOCUS online](https://www.focus.de/)
+- [BR24](https://www.br.de/nachrichten/)
+- [t-online](https://www.t-online.de/)
+- [stern](https://www.stern.de/)
+- [Business Insider Deutschland](https://www.businessinsider.de/)
+- [Capital](https://www.capital.de/)
+- [manager magazin](https://www.manager-magazin.de/)
 
 ## Spanish
 
@@ -81,6 +98,10 @@
 - [La Vanguardia](https://www.lavanguardia.com/)
 - [El Universal](https://www.eluniversal.com.mx/)
 - [Europa Press](https://www.europapress.es/)
+- [20minutos](https://www.20minutos.es/)
+- [elDiario.es](https://www.eldiario.es/)
+- [La Nación (Argentina)](https://www.lanacion.com.ar/)
+- [El Comercio (Peru)](https://www.elcomercio.pe/)
 
 ## Russian
 
@@ -94,6 +115,7 @@
 - [Lenta.ru](https://lenta.ru/)
 - [Gazeta.ru](https://www.gazeta.ru/)
 - [РИА Новости (RIA Novosti)](https://www.ria.ru/)
+- [Вести.Ru (Vesti.ru)](https://www.vesti.ru/)
 
 ## Arabic
 
@@ -108,6 +130,7 @@
 - [Alhurra](https://www.alhurra.com/)
 - [Anadolu Agency (Arabic)](https://www.aa.com.tr/ar)
 - [اليوم السابع (Youm7)](https://www.youm7.com/)
+- [الشروق (Al-Shorouk)](https://www.shorouknews.com/)
 
 ## Persian
 
@@ -118,6 +141,9 @@
 - [IranWire](https://iranwire.com/)
 - [صدای آمریکا (Voice of America Persian)](https://ir.voanews.com/)
 - [ایسنا (ISNA)](https://www.isna.ir/)
+- [مهر (Mehr News Agency)](https://www.mehrnews.com/)
+- [تابناک (Tabnak)](https://www.tabnak.ir/)
+- [فارس (Fars News)](https://www.farsnews.ir/)
 
 ## Chinese
 
@@ -131,6 +157,11 @@
 - [腾讯新闻 (Tencent News)](https://news.qq.com/)
 - [南方周末 (Southern Weekly)](https://www.infzm.com/)
 - [观察者网 (Guancha)](https://www.guancha.cn/)
+- [凤凰网资讯 (Ifeng News)](https://news.ifeng.com/)
+- [第一财经 (Yicai)](https://www.yicai.com/)
+- [ETtoday 新聞雲](https://www.ettoday.net/)
+- [中央社 CNA](https://www.cna.com.tw/)
+- [聯合新聞網 (UDN)](https://udn.com/)
 
 ## Japanese
 
@@ -142,6 +173,8 @@
 - [産経新聞 (Sankei Shimbun)](https://www.sankei.com/)
 - [時事ドットコム (Jiji Press)](https://www.jiji.com/)
 - [東京新聞 (Tokyo Shimbun)](https://www.tokyo-np.co.jp/)
+- [共同通信 (Kyodo News)](https://www.kyodonews.jp/)
+- [ITmedia NEWS](https://www.itmedia.co.jp/news/)
 
 ## Korean
 
@@ -154,6 +187,10 @@
 - [서울신문 (Seoul Shinmun)](https://www.seoul.co.kr/)
 - [한국일보 (Hankook Ilbo)](https://www.hankookilbo.com/)
 - [SBS 뉴스](https://news.sbs.co.kr/)
+- [KBS 뉴스](https://news.kbs.co.kr/)
+- [MBC 뉴스](https://imnews.imbc.com/)
+- [아주경제 (Aju News)](https://www.ajunews.com/)
+- [헤럴드경제 (Herald Economy)](https://biz.heraldcorp.com/)
 
 ## Thai
 
@@ -162,6 +199,9 @@
 - [ไทยรัฐ (Thai Rath)](https://www.thairath.co.th/)
 - [Sanook News](https://www.sanook.com/news/)
 - [Post Today](https://www.posttoday.com/)
+- [กรุงเทพธุรกิจ (Bangkok Biz News)](https://www.bangkokbiznews.com/)
+- [ฐานเศรษฐกิจ (Thansettakij)](https://www.thansettakij.com/)
+- [คมชัดลึก (Kom Chad Luek)](https://www.komchadluek.net/)
 
 ## Vietnamese
 
@@ -173,6 +213,8 @@
 - [Người Lao Động](https://nld.com.vn/)
 - [Thanh Niên](https://thanhnien.vn/)
 - [Lao Động](https://laodong.vn/)
+- [Kenh14](https://kenh14.vn/)
+- [Soha](https://www.soha.vn/)
 
 ## Malay
 
@@ -182,6 +224,9 @@
 - [Sinar Harian](https://www.sinarharian.com.my/)
 - [Malaysiakini](https://www.malaysiakini.com/)
 - [Free Malaysia Today (Bahasa)](https://www.freemalaysiatoday.com/bahasa/)
+- [KOSMO](https://www.kosmo.com.my/)
+- [Utusan Malaysia](https://www.utusan.com.my/)
+- [Berita Mediacorp](https://berita.mediacorp.sg/)
 
 ## Indonesian
 
@@ -194,3 +239,6 @@
 - [Merdeka](https://www.merdeka.com/)
 - [Kumparan](https://kumparan.com/)
 - [VIVA](https://www.viva.co.id/)
+- [Liputan6](https://www.liputan6.com/)
+- [Okezone](https://www.okezone.com/)
+- [Suara](https://www.suara.com/)
