@@ -129,6 +129,8 @@
 - [Challenges](https://www.challenges.fr/)
 - [Jeune Afrique](https://www.jeuneafrique.com/)
 - [France Inter](https://www.franceinter.fr/)
+- [Ouest-France](https://www.ouest-france.fr/)
+- [La Dépêche du Midi](https://www.ladepeche.fr/)
 
 ## German
 
@@ -221,6 +223,8 @@
 - [Hespress (هسبريس)](https://www.hespress.com/)
 - [SWI swissinfo (العربية)](https://www.swissinfo.ch/ara/)
 - [الشروق (Echorouk Online)](https://www.echoroukonline.com/)
+- [المصري اليوم (Al-Masry Al-Youm)](https://www.almasryalyoum.com/)
+- [الأهرام (Al-Ahram)](https://gate.ahram.org.eg/)
 
 ## Persian
 
@@ -235,6 +239,7 @@
 - [تابناک (Tabnak)](https://www.tabnak.ir/)
 - [فارس (Fars News)](https://www.farsnews.ir/)
 - [اعتماد آنلاین (Etemad Online)](https://www.etemadonline.com/)
+- [تسنیم (Tasnim News Agency)](https://www.tasnimnews.com/)
 
 ## Chinese
 
@@ -259,6 +264,8 @@
 - [SWI swissinfo (中文)](https://www.swissinfo.ch/chi/)
 - [Radio Free Asia 普通话](https://www.rfa.org/mandarin/)
 - [Radio Free Asia 粵語](https://www.rfa.org/cantonese/)
+- [HK01](https://www.hk01.com/)
+- [端傳媒 The Initium](https://theinitium.com/)
 
 ## Japanese
 
@@ -276,6 +283,8 @@
 - [SWI swissinfo (日本語)](https://www.swissinfo.ch/jpn/)
 - [日刊ゲンダイ (Nikkan Gendai)](https://www.nikkan-gendai.com/)
 - [日刊スポーツ (Nikkan Sports)](https://www.nikkansports.com/)
+- [中日新聞 (Chunichi Shimbun)](https://www.chunichi.co.jp/)
+- [TBS NEWS DIG](https://newsdig.tbs.co.jp/)
 
 ## Korean
 
@@ -296,6 +305,8 @@
 - [한국경제 (Hankyung)](https://www.hankyung.com/)
 - [아시아경제 (Asiae)](https://www.asiae.co.kr/)
 - [뉴시스 (Newsis)](https://www.newsis.com/)
+- [이데일리 (Edaily)](https://www.edaily.co.kr/)
+- [뉴스1 (News1)](https://www.news1.kr/)
 
 ## Thai
 
@@ -311,6 +322,8 @@
 - [ผู้จัดการออนไลน์ (MGR Online)](https://mgronline.com/)
 - [PPTV HD 36](https://www.pptvhd36.com/news)
 - [one31 News](https://www.one31.net/news)
+- [ประชาไท (Prachatai)](https://prachatai.com/)
+- [แนวหน้า (Naew Na)](https://www.naewna.com/)
 
 ## Vietnamese
 
@@ -327,6 +340,7 @@
 - [Tiền Phong](https://tienphong.vn/)
 - [CafeF](https://cafef.vn/)
 - [VOV](https://vov.vn/)
+- [VTC News](https://www.vtcnews.vn/)
 
 ## Malay
 
@@ -340,6 +354,7 @@
 - [Utusan Malaysia](https://www.utusan.com.my/)
 - [Berita Mediacorp](https://berita.mediacorp.sg/)
 - [The Star](https://www.thestar.com.my/)
+- [Berita Harian (BH)](https://www.bharian.com.my/)
 
 ## Indonesian
 
@@ -358,6 +373,7 @@
 - [CNBC Indonesia](https://www.cnbcindonesia.com/)
 - [BBC News Indonesia](https://www.bbc.com/indonesia)
 - [IDN Times](https://www.idntimes.com/)
+- [Tribun News](https://www.tribunnews.com/)
 
 ## Portuguese
 
@@ -374,6 +390,10 @@
 - [SWI swissinfo (Português)](https://www.swissinfo.ch/por/)
 - [SAPO Notícias](https://noticias.sapo.pt/)
 - [Jornal de Negócios](https://www.jornaldenegocios.pt/)
+- [O Globo](https://oglobo.globo.com/)
+- [Correio da Manhã](https://www.cmjornal.pt/)
+- [Diário de Notícias (DN)](https://www.dn.pt/)
+- [SIC Notícias](https://sicnoticias.pt/)
 
 ## Italian
 
@@ -387,6 +407,10 @@
 - [La Stampa](https://www.lastampa.it/)
 - [SWI swissinfo (Italiano)](https://www.swissinfo.ch/ita/)
 - [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it/)
+- [Sky TG24](https://tg24.sky.it/)
+- [Il Post](https://www.ilpost.it/)
+- [AGI (Agenzia Italia)](https://www.agi.it/)
+- [Il Giornale](https://www.ilgiornale.it/)
 
 ## Dutch
 
@@ -395,6 +419,11 @@
 - [RTL Nieuws](https://www.rtlnieuws.nl/)
 - [NRC](https://www.nrc.nl/)
 - [fd (Het Financieele Dagblad)](https://fd.nl/)
+- [NU.nl](https://www.nu.nl/)
+- [Algemeen Dagblad (AD)](https://www.ad.nl/)
+- [de Volkskrant](https://www.volkskrant.nl/)
+- [De Telegraaf](https://www.telegraaf.nl/)
+- [Trouw](https://www.trouw.nl/)
 
 ## Polish
 
@@ -407,6 +436,7 @@
 - [Polsat News](https://www.polsatnews.pl/)
 - [Gazeta Prawna](https://www.gazetaprawna.pl/)
 - [Polityka](https://www.polityka.pl/)
+- [Interia Fakty](https://fakty.interia.pl/)
 
 ## Turkish
 
@@ -421,6 +451,7 @@
 - [Habertürk](https://www.haberturk.com/)
 - [Dünya](https://www.dunya.com/)
 - [CNN Türk](https://www.cnnturk.com/)
+- [Star](https://www.star.com.tr/)
 
 ## Hindi
 
@@ -433,6 +464,7 @@
 - [Amar Ujala](https://www.amarujala.com/)
 - [Patrika](https://www.patrika.com/)
 - [Prabhat Khabar](https://www.prabhatkhabar.com/)
+- [Navbharat Times (नवभारत टाइम्स)](https://www.navbharattimes.indiatimes.com/)
 
 ## Ukrainian
 
@@ -442,6 +474,8 @@
 - [UNIAN](https://www.unian.ua/)
 - [TSN.ua](https://tsn.ua/)
 - [Ukrinform](https://www.ukrinform.ua/)
+- [Liga.net](https://www.liga.net/)
+- [Радіо Свобода (Radio Svoboda)](https://www.radiosvoboda.org/)
 
 ## Swedish
 
@@ -451,6 +485,8 @@
 - [Aftonbladet](https://www.aftonbladet.se/)
 - [Expressen](https://www.expressen.se/)
 - [Sydsvenskan](https://www.sydsvenskan.se/)
+- [Svenska Dagbladet (SvD)](https://www.svd.se/)
+- [Göteborgs-Posten (GP)](https://www.gp.se/)
 
 ## Norwegian
 
@@ -459,6 +495,8 @@
 - [VG](https://www.vg.no/)
 - [Aftenposten](https://www.aftenposten.no/)
 - [DN (Dagens Næringsliv)](https://www.dn.no/)
+- [Nettavisen](https://www.nettavisen.no/)
+- [Dagbladet](https://www.dagbladet.no/)
 
 ## Danish
 
@@ -467,6 +505,8 @@
 - [Ekstra Bladet](https://www.ekstrabladet.dk/)
 - [Politiken](https://www.politiken.dk/)
 - [Berlingske](https://www.berlingske.dk/)
+- [Jyllands-Posten](https://jyllands-posten.dk/)
+- [Information](https://www.information.dk/)
 
 ## Czech
 
@@ -476,6 +516,7 @@
 - [Aktuálně.cz](https://www.aktualne.cz/)
 - [Novinky.cz](https://www.novinky.cz/)
 - [Deník](https://www.denik.cz/)
+- [Lidovky.cz](https://www.lidovky.cz/)
 
 ## Urdu
 
@@ -483,6 +524,7 @@
 - [VOA Urdu](https://www.urduvoa.com/)
 - [UrduPoint](https://www.urdupoint.com/)
 - [Daily Express (Urdu)](https://www.express.pk/)
+- [Daily Jang (روزنامہ جنگ)](https://www.jang.com.pk/)
 
 ## Bengali
 
@@ -492,6 +534,7 @@
 - [Kaler Kantho](https://www.kalerkantho.com/)
 - [Bangladesh Pratidin](https://www.bd-pratidin.com/)
 - [The Daily Ittefaq](https://www.ittefaq.com.bd/)
+- [BDNews24 (বাংলা)](https://bangla.bdnews24.com/)
 
 ## Hebrew
 
@@ -499,6 +542,9 @@
 - [ynet](https://www.ynet.co.il/)
 - [Walla News](https://news.walla.co.il/)
 - [Globes (גלובס)](https://www.globes.co.il/)
+- [Haaretz (הארץ)](https://www.haaretz.co.il/)
+- [Calcalist (כלכליסט)](https://www.calcalist.co.il/)
+- [N12](https://www.n12.co.il/)
 
 ## Greek
 
@@ -508,6 +554,7 @@
 - [Το Βήμα (To Vima)](https://www.tovima.gr/)
 - [News247](https://www.news247.gr/)
 - [Ethnos](https://www.ethnos.gr/)
+- [Proto Thema](https://www.protothema.gr/)
 
 ## Romanian
 
@@ -515,12 +562,20 @@
 - [Digi24](https://www.digi24.ro/)
 - [HotNews](https://www.hotnews.ro/)
 - [Libertatea](https://www.libertatea.ro/)
+- [Adevărul](https://www.adevarul.ro/)
+- [Mediafax](https://www.mediafax.ro/)
+- [G4Media](https://www.g4media.ro/)
 
 ## Hungarian
 
 - [Deutsche Welle (Magyar)](https://www.dw.com/hu/)
 - [Index](https://index.hu/)
 - [Telex](https://telex.hu/)
+- [Origo](https://www.origo.hu/)
+- [444](https://444.hu/)
+- [HVG](https://www.hvg.hu/)
+- [Mandiner](https://www.mandiner.hu/)
+- [RTL.hu](https://www.rtl.hu/)
 
 ## Filipino
 
@@ -528,6 +583,9 @@
 - [Rappler](https://www.rappler.com/)
 - [GMA News Online](https://www.gmanetwork.com/news/)
 - [SunStar](https://www.sunstar.com.ph/)
+- [ABS-CBN News](https://news.abs-cbn.com/)
+- [Philippine Daily Inquirer](https://www.inquirer.net/)
+- [Manila Bulletin](https://mb.com.ph/)
 
 ## Finnish
 
@@ -535,6 +593,8 @@
 - [Yle Uutiset](https://www.yle.fi/uutiset)
 - [Helsingin Sanomat](https://www.hs.fi/)
 - [Ilta-Sanomat](https://www.is.fi/)
+- [MTV Uutiset](https://www.mtvuutiset.fi/)
+- [Turun Sanomat (TS)](https://www.ts.fi/)
 
 ## Slovak
 
@@ -543,6 +603,7 @@
 - [Pravda](https://www.pravda.sk/)
 - [Topky](https://www.topky.sk/)
 - [Teraz.sk](https://www.teraz.sk/)
+- [SME.sk](https://www.sme.sk/)
 
 ## Slovenian
 
@@ -550,6 +611,8 @@
 - [24ur](https://www.24ur.com/)
 - [RTV Slovenija](https://www.rtvslo.si/)
 - [Dnevnik](https://www.dnevnik.si/)
+- [Delo](https://www.delo.si/)
+- [Večer](https://www.vecer.com/)
 
 ## Croatian
 
@@ -558,6 +621,7 @@
 - [Index.hr](https://www.index.hr/vijesti)
 - [24sata](https://www.24sata.hr/)
 - [Jutarnji list](https://www.jutarnji.hr/)
+- [Novi list](https://www.novilist.hr/)
 
 ## Serbian
 
@@ -565,6 +629,7 @@
 - [Blic](https://www.blic.rs/)
 - [Danas](https://www.danas.rs/)
 - [Kurir](https://www.kurir.rs/)
+- [RTS (Radio Television of Serbia)](https://www.rts.rs/)
 
 ## Bulgarian
 
@@ -579,17 +644,22 @@
 - [ERR Uudised](https://www.err.ee/)
 - [Postimees](https://www.postimees.ee/)
 - [Delfi (Estonia)](https://www.delfi.ee/)
+- [Eesti Päevaleht (EPL)](https://www.epl.ee/)
 
 ## Latvian
 
 - [Deutsche Welle (Latviešu)](https://www.dw.com/lv/)
 - [TVNET](https://www.tvnet.lv/)
 - [Delfi (Latvia)](https://www.delfi.lv/)
+- [LSM.lv (Latvijas Radio un Televīzija)](https://www.lsm.lv/lv/)
 
 ## Lithuanian
 
+- [Deutsche Welle (Lietuvių)](https://www.dw.com/lt/)
 - [15min](https://www.15min.lt/)
 - [LRT](https://www.lrt.lt/)
+- [Delfi (Lithuania)](https://www.delfi.lt/)
+- [Verslo žinios (vz.lt)](https://www.vz.lt/)
 
 ## Swahili
 
@@ -597,11 +667,13 @@
 - [BBC News Swahili](https://www.bbc.com/swahili)
 - [The Standard (Kenya)](https://www.standardmedia.co.ke/)
 - [The Citizen (Tanzania)](https://www.thecitizen.co.tz/)
+- [Mwananchi](https://www.mwananchi.co.tz/)
 
 ## Amharic
 
 - [Deutsche Welle (አማርኛ)](https://www.dw.com/am/)
 - [BBC News አማርኛ](https://www.bbc.com/amharic)
+- [ድምፅ አሜሪካ (Voice of America — አማርኛ)](https://amharic.voanews.com/)
 
 ## Nigerian Pidgin
 
@@ -613,6 +685,8 @@
 - [Dinamalar](https://www.dinamalar.com/)
 - [Sakshi](https://www.sakshi.com/)
 - [Hindu Tamil](https://www.hindutamil.in/)
+- [Daily Thanthi](https://www.dailythanthi.com/)
+- [Vikatan](https://www.vikatan.com/)
 
 ## Telugu
 
@@ -620,6 +694,7 @@
 - [Eenadu](https://www.eenadu.net/)
 - [Andhra Jyothy](https://www.andhrajyothy.com/)
 - [TV9 Telugu](https://www.tv9telugu.com/)
+- [Namasthe Telangana](https://www.namasthetelangana.com/)
 
 ## Marathi
 
@@ -627,23 +702,28 @@
 - [Loksatta](https://www.loksatta.com/)
 - [Saam TV](https://www.saamtv.com/)
 - [Sakal (eSakal)](https://www.esakal.com/)
+- [Lokmat](https://www.lokmat.com/)
+- [Maharashtra Times](https://maharashtratimes.com/)
 
 ## Gujarati
 
 - [BBC News ગુજરાતી](https://www.bbc.com/gujarati)
 - [Divya Bhaskar](https://www.divyabhaskar.co.in/)
+- [Gujarat Samachar](https://www.gujaratsamachar.com/)
 
 ## Punjabi
 
 - [BBC News ਪੰਜਾਬੀ](https://www.bbc.com/punjabi)
 - [Ajit](https://www.ajitjalandhar.com/)
 - [Punjab Kesari](https://www.punjabkesari.in/)
+- [Rozana Spokesman](https://www.rozanaspokesman.com/)
 
 ## Sinhala
 
 - [BBC News සිංහල](https://www.bbc.com/sinhala)
 - [Ada Derana](https://www.adaderana.lk/)
 - [Newsfirst](https://www.newsfirst.lk/)
+- [Lankadeepa](https://www.lankadeepa.lk/)
 
 ## Yoruba
 
@@ -656,55 +736,77 @@
 ## Kinyarwanda and Kirundi
 
 - [BBC Gahuza](https://www.bbc.com/gahuza)
+- [Igihe](https://www.igihe.com/)
+- [Umuseke](https://umuseke.rw/)
 
 ## Tigrinya
 
 - [BBC News ትግርኛ](https://www.bbc.com/tigrinya)
+- [Voice of America — ትግርኛ (Tigrigna)](https://tigrigna.voanews.com/)
 
 ## Burmese
 
 - [BBC မြန်မာ](https://www.bbc.com/burmese)
+- [Radio Free Asia မြန်မာ](https://www.rfa.org/burmese/)
+- [Eleven Media Group](https://elevenmyanmar.com/)
 
 ## Nepali
 
 - [BBC नेपाली](https://www.bbc.com/nepali)
+- [Online Khabar](https://www.onlinekhabar.com/)
+- [Setopati](https://www.setopati.com/)
+- [Kantipur (Kantipur Daily)](https://www.kantipurdaily.com/)
+- [Ratopati](https://ratopati.com/)
 
 ## Pashto
 
 - [BBC پښتو](https://www.bbc.com/pashto)
+- [Pajhwok Afghan News](https://pajhwok.com/)
+- [Khaama Press](https://www.khaama.com/)
 
 ## Kyrgyz
 
 - [BBC Кыргызча](https://www.bbc.com/kyrgyz)
+- [Азаттык (Radio Azattyk — Kyrgyz)](https://www.azattyk.org/)
 
 ## Uzbek
 
 - [BBC O'zbek](https://www.bbc.com/uzbek)
+- [Kun.uz](https://kun.uz/)
 
 ## Albanian
 
 - [Deutsche Welle (Shqip)](https://www.dw.com/sq/)
 - [Panorama](https://www.panorama.com.al/)
+- [Koha Ditore](https://www.koha.net/)
 
 ## Macedonian
 
 - [Deutsche Welle (Македонски)](https://www.dw.com/mk/)
 - [MKD.mk](https://www.mkd.mk/)
+- [SDK.mk](https://www.sdk.mk/)
+- [Sloboden Pečat](https://www.slobodenpecat.mk/)
 
 ## Bosnian
 
 - [Deutsche Welle (Bosanski)](https://www.dw.com/bs/)
 - [Oslobođenje](https://www.oslobodjenje.ba/)
+- [Klix.ba](https://www.klix.ba/)
+- [Avaz](https://avaz.ba/)
+- [Federalna](https://www.federalna.ba/)
 
 ## Irish
 
+- [RTÉ Nuacht (Gaeilge)](https://www.rte.ie/nuacht/)
 - [RTÉ News](https://www.rte.ie/news/)
 - [TG4 Nuacht](https://www.tg4.ie/ga/)
+- [Tuairisc.ie](https://tuairisc.ie/)
 
 ## Welsh
 
 - [BBC Cymru Fyw](https://www.bbc.com/cymrufyw)
 - [Golwg360](https://golwg360.cymru/)
+- [Nation.Cymru](https://nation.cymru/)
 
 ## Icelandic
 
@@ -724,6 +826,7 @@
 - [VilaWeb](https://www.vilaweb.cat/)
 - [El Nacional](https://www.elnacional.cat/)
 - [CCMA 3Cat](https://www.3cat.cat/3catinfo/)
+- [Nació Digital](https://www.naciodigital.cat/)
 
 ## Basque
 
@@ -731,18 +834,26 @@
 - [EITB](https://www.eitb.eus/)
 - [Naiz](https://www.naiz.eus/)
 - [Berria](https://www.berria.eus/)
+- [Deia](https://www.deia.eus/)
 
 ## Galician
 
 - [La Voz de Galicia](https://www.lavozdegalicia.es/)
 - [La Opinión A Coruña](https://www.laopinioncoruna.es/)
+- [Faro de Vigo](https://www.farodevigo.es/)
+- [CRTVG (Corporación Radio e Televisión de Galicia)](https://www.crtvg.gal/)
 
 ## Lao
 
 - [Radio Free Asia ລາວ](https://www.rfa.org/lao/)
 - [Lao Times](https://laotiantimes.com/)
+- [ສຽງອາເມຣິກາ — ພາສາລາວ (Voice of America — Lao)](https://lao.voanews.com/)
+- [Vientiane Times](https://www.vientianetimes.org.la/)
+- [Pasaxon](https://www.pasaxon.org.la/)
 
 ## Khmer
 
 - [Radio Free Asia ខ្មែរ](https://www.rfa.org/khmer/)
 - [Post Khmer](https://postkhmer.com/)
+- [Fresh News](https://freshnewsasia.com/)
+- [Thmey Thmey](https://www.thmeythmey.com/)
